@@ -1,6 +1,6 @@
 # Hi, I'm Rithika Yuvaraj 👋
 
-## Computer Science Engineering Student | AI Enthusiast | Full Stack Developer | UI/UX Designer
+## Computer Science Engineering Student | AI Enthusiast | Frontend Developer | UI/UX Designer
 
 Passionate Computer Science Engineering student with a strong interest in Artificial Intelligence, Machine Learning, Full Stack Development, Data Analytics, and User Experience Design. I enjoy building innovative solutions that combine technology, creativity, and real-world impact.
 
